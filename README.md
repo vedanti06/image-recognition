@@ -9,3 +9,7 @@ The image-ids are pushed to an SQS Request Queue and initiates the autoscaling o
 Each new App Tier EC2 instance boots up and automatically starts polling the SQS Request Queue for image-ids.
 Once an image-id is retrieved, the image from the S3 Input Bucket, processes it using the deep learning classifier, and generates a prediction result.
 The result is inputted to an S3 Output Bucket and deletes the processed image-id from the request queue.
+
+## Architecture Diagram
+
+![Architecture](output.png)
