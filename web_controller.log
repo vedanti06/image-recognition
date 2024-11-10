@@ -1,0 +1,44 @@
+2024-11-09 20:30:30.382 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:30:30.382 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 20:30:30.385 INFO _internal - _log:  * Restarting with stat
+2024-11-09 20:30:30.651 WARNING _internal - _log:  * Debugger is active!
+2024-11-09 20:30:30.657 INFO _internal - _log:  * Debugger PIN: 788-682-858
+2024-11-09 20:38:47.934 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:38:47.934 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 20:38:47.935 INFO _internal - _log:  * Restarting with stat
+2024-11-09 20:38:48.190 WARNING _internal - _log:  * Debugger is active!
+2024-11-09 20:38:48.194 INFO _internal - _log:  * Debugger PIN: 788-682-858
+2024-11-09 20:39:38.543 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:39:38.543 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 20:39:38.546 INFO _internal - _log:  * Restarting with stat
+2024-11-09 20:39:38.799 WARNING _internal - _log:  * Debugger is active!
+2024-11-09 20:39:38.801 INFO _internal - _log:  * Debugger PIN: 130-871-498
+2024-11-09 20:39:59.135 INFO _internal - _log:  * Detected change in 'C:\\Users\\VEDANTI\\Desktop\\cloud computing\\web_tier\\app.py', reloading
+2024-11-09 20:39:59.194 INFO _internal - _log:  * Restarting with stat
+2024-11-09 20:40:11.253 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:40:11.254 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 20:47:33.143 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:47:33.143 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 20:51:04.498 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:51:04.499 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 21:18:49.871 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+2024-11-09 21:18:49.872 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 21:18:49.874 INFO _internal - _log:  * Restarting with stat
+2024-11-09 21:18:50.139 WARNING _internal - _log:  * Debugger is active!
+2024-11-09 21:18:50.150 INFO _internal - _log:  * Debugger PIN: 788-682-858
+2024-11-09 21:19:30.728 INFO _internal - _log:  * Detected change in 'c:\\Users\\VEDANTI\\Desktop\\cloud computing\\web_tier\\app.py', reloading
+2024-11-09 21:19:30.815 INFO _internal - _log:  * Restarting with stat
+2024-11-09 21:19:34.490 INFO _internal - _log: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+2024-11-09 21:19:34.490 INFO _internal - _log: [33mPress CTRL+C to quit[0m
+2024-11-09 21:19:46.199 INFO _internal - _log: 127.0.0.1 - - [09/Nov/2024 21:19:46] "GET / HTTP/1.1" 200 -
+2024-11-09 21:19:46.236 INFO _internal - _log: 127.0.0.1 - - [09/Nov/2024 21:19:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-09 21:19:46.440 INFO _internal - _log: 127.0.0.1 - - [09/Nov/2024 21:19:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-09 21:19:52.767 INFO _internal - _log: 127.0.0.1 - - [09/Nov/2024 21:19:52] "[31m[1mPOST / HTTP/1.1[0m" 400 -

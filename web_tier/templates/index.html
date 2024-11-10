@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>IaaS Image Classifier</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h2>Upload Image</h2>
+    <form method="POST" action="" enctype="multipart/form-data">
+        <p><input type="file" name="image_file" multiple accept="image/*"></p>
+        <p><input type="submit" value="Submit"></p>
+    </form>
+    {% if preds|length >= 1 %}
+    <h2>Prediction Results</h2>
+    <table>
+        <tr>
+            <th>Input Image</th>
+            <th>Predicted Value</th>
+        </tr>
+        {% for key, value in preds.items() %}
+        <tr>
+            <td>{{ key }}</td>
+            <td>{{ value }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</div>
+{% endblock %}
